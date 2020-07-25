@@ -54,3 +54,7 @@ function randomNum(minNum, maxNum) {
       break;
   }
 }
+
+function SubBranch(){
+  console.log("master_202007025分支的测试代码")
+}
